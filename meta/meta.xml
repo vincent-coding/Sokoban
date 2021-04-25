@@ -2,16 +2,16 @@
 <app version="1">
   <name>Sokoban</name>
   <coder>VCoding</coder>
-  <version>v0.1a</version>
+  <version>v0.1b</version>
   <short_description>A little game where the goal is to push cubes to specific locations.</short_description> 
-  <long_description>WARNING: This game is still in development. And only has 4 levels at the moment.
-Be aware of the updates!
+  <long_description>WARNING: This game is still in development. And only has 4 levels at the moment. Be aware of the updates!
 
 A little game where the goal is to push cubes to specific locations.
 
 Keys:
 - Directional arrow -> Move character
 - Start Button      -> Reset level
+- Select Button     -> Switch levels
 - Home Button       -> Exit the application
   </long_description> 
   <url>https://github.com/vincent-coding/Sokoban</url>
